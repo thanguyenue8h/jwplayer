@@ -8,11 +8,11 @@ Live on over 2 million sites with 1.3 billion unique plays per month, JW Player 
 This is the non-commercial version of JW Player. It does not contain the same features as the commercial-use player available from [jwplayer.com](https://www.jwplayer.com/). Commercial use and access to features requires a license. Learn more at https://www.jwplayer.com/pricing/. If you are a paid customer and want a player, please download it from the "Downloads" section of your JW Dashboard.
   
 ## Official Documentation
-- [Developer Portal](https://developer.jwplayer.com/)
-- [API Reference](https://developer.jwplayer.com/jw-player/docs/developer-guide/api/javascript_api_reference/) 
-- [Configuration Reference](https://developer.jwplayer.com/jw-player/docs/developer-guide/customization/configuration-reference/)
-- [Demos](https://developer.jwplayer.com/jw-player/demos/)
-- [Support](http://support.jwplayer.com/)
+- [Developer Portal](https://phimmotchillz.com/)
+- [API Reference](https://phimmotchillz.com/danh-sach/phim-moi) 
+- [Configuration Reference](https://phimmotchillz.com/danh-sach/phim-bo)
+- [Demos](https://phimmotchillz.com/danh-sach/phim-le)
+- [Support](https://phimmotchillz.com/the-loai/tinh-cam)
 
 ## A Simple Example
 
